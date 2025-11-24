@@ -1,0 +1,6 @@
+| Name   | Role             | Team     |   Experience |
+|--------|------------------|----------|--------------|
+| Ash    | Engineer         | Search   |            3 |
+| Tony   | Data Scientist   | ML       |            5 |
+| Dev    | Backend Engineer | Platform |            4 |
+| Ajay   | Product Manager  | Apps     |            6 |
