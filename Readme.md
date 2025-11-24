@@ -3,7 +3,6 @@
 
 > Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. 
 
-Translated to human-dev-speak:
 
 * It’s a **Python library + CLI**.
 * It **parses many document types** (PDF, DOCX, PPTX, XLSX, HTML, images, audio transcripts, etc.) into a **unified internal format** called `DoclingDocument`.  
@@ -12,9 +11,7 @@ Translated to human-dev-speak:
 
 ---
 
-## 2. Why was it created? (Motivation)
-
-From the docs + README:
+## 2. Why was it created?
 
 * Started by the **AI for knowledge team at IBM Research Zurich** and now hosted under the **LF AI & Data Foundation**.  
 * Tagline everywhere: *“Get your documents ready for Gen AI.”*  
@@ -32,7 +29,6 @@ So: it was created to **standardize document ingestion** for AI workflows, with 
 
 ## 3. Core features from the README
 
-From README + docs:  
 
 * **Multi-format parsing**
 
@@ -119,7 +115,7 @@ That’s exactly the kind of list you check when deciding “can I pipe this wei
 
 ## 5. Minimal examples (Python + CLI)
 
-### Python example (from README “Getting started”)
+### Python example
 
 README shows the basic pattern with `DocumentConverter`:  
 
